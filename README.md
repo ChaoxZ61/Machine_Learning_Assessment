@@ -11,7 +11,7 @@ Zheding Zhao
 
 1. Python3 (3.8 or higher is preferrable),
 2. IDE Can run .ipynb files
-3. python package xgboost and sklearn installed
+3. python package pandas, xgboost, and sklearn installed
 
 # File Explained
 
